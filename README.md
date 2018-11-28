@@ -13,6 +13,6 @@ Please make a file and add your Submission in the Template below -
 and save your file as projectname.md
 -----------------------------------------------------------------  
 
-Take a look at sample file here - 
+Take a look at sample file here - https://github.com/heyAyushh/lhdatJU/blob/master/mlrpp.md
 
 -------------------------------------------------------------------
